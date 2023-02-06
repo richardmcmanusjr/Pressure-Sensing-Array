@@ -21,3 +21,5 @@ This repository contains a pressure sensing array for use in athletic training a
 - Used in baseball pitching to detect the area of maximum force generation on the drive foot 
   - Can infer glute or quad dominance from the location of this maximum
 
+# Credits
+https://www.sensitronics.com/tutorials/fsr-matrix-array/
